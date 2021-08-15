@@ -1,0 +1,26 @@
+
+h1{
+    background: linear-gradient(40deg, rgb(236, 208, 47), rgb(236, 47, 47));
+}
+
+p::first-letter {
+    font-size: 30px;
+    color:  rgb(255, 67, 67);
+  }
+  
+  a:link {
+    color: darkgreen;
+  }
+  
+  a:visited {
+    color: maroon;
+  }
+  
+  a:hover {
+    background-color: yellow;
+  }
+  
+  
+  a:active {
+    color: blue;
+  }
